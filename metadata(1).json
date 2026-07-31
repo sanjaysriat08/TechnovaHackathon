@@ -1,0 +1,6 @@
+{
+  "name": "Campus Voice - Admin Portal",
+  "description": "Enterprise SaaS Admin Portal for campus grievance management, analytics, department resolution tracking, and announcements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
